@@ -1,7 +1,10 @@
+.idea/
 __pycache__/
 *.pyc
-*.sqlite3
-.env
+*.pyo
+*.pyd
+env/
 venv/
+*.sqlite3
 staticfiles/
 *.jpeg
